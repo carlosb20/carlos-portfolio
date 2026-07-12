@@ -1,0 +1,53 @@
+.contato {
+
+    width: 100%;
+    min-height: 100vh;
+    padding-top: 6em;
+    font: 1.2em sans-serif;
+    background: linear-gradient(120deg, rgb(56, 19, 19), rgba(224, 224, 99, 0.747), rgb(95, 65, 65), rgba(7, 226, 7, 0.712));
+}
+
+.contato h2 {
+    text-align: center;
+}
+
+.contato div {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0.3em;
+
+}
+
+.contato div h3 {
+
+    color: rgb(95, 133, 133);
+    text-shadow: 1px 0px 1px black;
+    padding: 0.2em;
+
+}
+.contato div a{
+    text-decoration: none;
+    text-shadow: 1px 0px 1px rgba(0, 0, 0, 0.753);
+    color:rgb(2, 166, 241);
+    font-family:'Times New Roman', Times, serif;
+    
+}
+
+@media (max-width:780px) {
+    .contato div a{
+        padding: 0.1em;
+        font-size: 0.8em;
+        color: rgb(54, 54, 59);
+        text-shadow: 0px 0px 1px rgba(0, 0, 0, 0.753);
+        color:rgb(9, 12, 145);
+    
+    }
+    
+.contato div h3 {
+
+    font-size: 1.1em;
+    color: rgba(58, 68, 68, 0.911);
+
+}
+}
