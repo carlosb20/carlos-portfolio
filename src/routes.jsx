@@ -1,19 +1,18 @@
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import Home from "./pages/Home";
 import Sobre from "./pages/Sobre"
 import Contato from "./pages/Contato";
 
-function AppRautes(){
-    return(
-        <BrowserRouter basename="/carlos-portfolio">
-         <Routes>
-            <Route path="/" element={<Home/>}></Route>
-            <Route path="/sobre" element={<Sobre/>}></Route>
-            <Route path="/contato" element={<Contato/>}></Route>
-         </Routes>
-        </BrowserRouter>
-    )
-
+function AppRautes() {
+    return (
+        <HashRouter>
+            <Routes>
+                <Route path="/" element={<Home />} />
+                <Route path="/sobre" element={<Sobre />} />
+                <Route path="/contato" element={<Contato />} />
+            </Routes>
+        </HashRouter>
+    );
 }
 
 export default AppRautes;
