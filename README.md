@@ -8,17 +8,17 @@ https://carlosb20.github.io/carlos-portfolio/
 
 ## 📸 Screenshots
 
-### Página HOME
+### Componente  HOME
 
 ![components](./prints/home.png)
 
-### Compomente HEADER
+### Componente HEADER
 ![components](./prints/HEADER.png)
 
-### Compomente CONTATO
+### Componente  CONTATO
 ![components](./prints/CONTATO.png)
 
-### Compomente FOOTER
+### Componente  FOOTER
 ![components](./prints/FOOTER.png)
 
 
