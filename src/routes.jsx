@@ -5,7 +5,7 @@ import Contato from "./pages/Contato";
 
 function AppRautes(){
     return(
-        <BrowserRouter>
+        <BrowserRouter basename="/carlos-portfolio">
          <Routes>
             <Route path="/" element={<Home/>}></Route>
             <Route path="/sobre" element={<Sobre/>}></Route>
