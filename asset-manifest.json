@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/carlos-portfolio/static/css/main.5140e37d.css",
+    "main.js": "/carlos-portfolio/static/js/main.92884fa8.js",
+    "static/media/Ciencia-dados.png": "/carlos-portfolio/static/media/Ciencia-dados.6a4658dc9412ee0847f5.png",
+    "static/media/python-A.png": "/carlos-portfolio/static/media/python-A.635b4afaf2aaf6225723.png",
+    "static/media/carlos.jpg": "/carlos-portfolio/static/media/carlos.1acd3e2b75e158b89a36.jpg",
+    "static/media/Python-Básico.png": "/carlos-portfolio/static/media/Python-Básico.10b877e18ea35bf07864.png",
+    "static/media/Completo-python-estruturas-dados.png": "/carlos-portfolio/static/media/Completo-python-estruturas-dados.2b054f7375f6b3c3bc23.png",
+    "static/media/Design-Patterns.png": "/carlos-portfolio/static/media/Design-Patterns.18ece9ef517ad55206bc.png",
+    "static/media/Python-Básico-ao-avancado.png": "/carlos-portfolio/static/media/Python-Básico-ao-avancado.3f26bbad177457992270.png",
+    "static/media/Curso-SQLite3.png": "/carlos-portfolio/static/media/Curso-SQLite3.b0a3a8b6b83aa5d41016.png",
+    "static/media/github.png": "/carlos-portfolio/static/media/github.c167cf81a9a372bf8433.png",
+    "static/media/social.png": "/carlos-portfolio/static/media/social.1dfb67c4588de1b5a09e.png",
+    "index.html": "/carlos-portfolio/index.html",
+    "main.5140e37d.css.map": "/carlos-portfolio/static/css/main.5140e37d.css.map",
+    "main.92884fa8.js.map": "/carlos-portfolio/static/js/main.92884fa8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5140e37d.css",
+    "static/js/main.92884fa8.js"
+  ]
+}
