@@ -96,7 +96,7 @@ function Sobre() {
                 <section className={styles.contProjetos}>
                     <nav>
                         <ul>
-                            <li><a href="dfd"> link </a></li>
+                            <li><a href="dfd"> projeto pizzaria </a></li>
                             <li><a href="dfd"> link </a></li>
                             <li><a href="dfd"> link </a></li>
                             <li><a href="dfd"> link </a></li>
