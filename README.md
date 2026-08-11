@@ -8,7 +8,7 @@ https://carlosb20.github.io/carlos-portfolio/
 
 ## 📸 Screenshots
 
-### Página Inicial
+### Página HOME
 
 ![components](./prints/home.png)
 
