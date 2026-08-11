@@ -10,7 +10,13 @@ https://carlosb20.github.io/carlos-portfolio/
 
 ### Página Inicial
 
-![Página Inicial](./prints/home.png)
+![components](./prints/home.png)
+
+![components](./prints/HEADER.png)
+
+![components](./prints/CONTATO.png)
+
+![components](./prints/FOOTER.png)
 
 
 
