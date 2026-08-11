@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/carlos-portfolio/static/css/main.5140e37d.css",
-    "main.js": "/carlos-portfolio/static/js/main.65fc7c0e.js",
+    "main.js": "/carlos-portfolio/static/js/main.6cbb49bd.js",
     "static/media/Ciencia-dados.png": "/carlos-portfolio/static/media/Ciencia-dados.6a4658dc9412ee0847f5.png",
     "static/media/python-A.png": "/carlos-portfolio/static/media/python-A.635b4afaf2aaf6225723.png",
     "static/media/carlos.jpg": "/carlos-portfolio/static/media/carlos.1acd3e2b75e158b89a36.jpg",
@@ -14,10 +14,10 @@
     "static/media/social.png": "/carlos-portfolio/static/media/social.1dfb67c4588de1b5a09e.png",
     "index.html": "/carlos-portfolio/index.html",
     "main.5140e37d.css.map": "/carlos-portfolio/static/css/main.5140e37d.css.map",
-    "main.65fc7c0e.js.map": "/carlos-portfolio/static/js/main.65fc7c0e.js.map"
+    "main.6cbb49bd.js.map": "/carlos-portfolio/static/js/main.6cbb49bd.js.map"
   },
   "entrypoints": [
     "static/css/main.5140e37d.css",
-    "static/js/main.65fc7c0e.js"
+    "static/js/main.6cbb49bd.js"
   ]
 }
