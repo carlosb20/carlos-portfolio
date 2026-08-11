@@ -12,10 +12,13 @@ https://carlosb20.github.io/carlos-portfolio/
 
 ![components](./prints/home.png)
 
+### Compomente HEADER
 ![components](./prints/HEADER.png)
 
+### Compomente CONTATO
 ![components](./prints/CONTATO.png)
 
+### Compomente FOOTER
 ![components](./prints/FOOTER.png)
 
 
