@@ -97,9 +97,9 @@ function Sobre() {
                     <nav>
                         <ul>
                             <li><a href="https://pizzaria-fxkv.onrender.com" target="_blank"> projeto pizzaria </a></li>
+                            {/* <li><a href="dfd"> link </a></li>
                             <li><a href="dfd"> link </a></li>
-                            <li><a href="dfd"> link </a></li>
-                            <li><a href="dfd"> link </a></li>
+                            <li><a href="dfd"> link </a></li> */}
                         </ul>
                     </nav>
                 </section>

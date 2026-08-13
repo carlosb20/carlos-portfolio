@@ -18,7 +18,7 @@ function Home() {
                                 <p>
                                     Cursando Tecnólogo em Desenvolvimento Web, com formação voltada
                                     para desenvolvimento de aplicações web utilizando HTML, CSS,
-                                    JavaScript, React e Node.js.
+                                    JavaScript, React e Node.js, Python.
                                 </p>
                             </div>
                         </div>
