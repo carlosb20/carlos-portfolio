@@ -60,17 +60,17 @@ function Sobre() {
                         <nav className={styles.cont_nav}>
                             <ul>
                                 <li onClick={() => abrirCurso("cusor-python")}>
-                                    Curso Python 
+                                    Curso Python
                                 </li>
                                 <li onClick={() => abrirCurso("banco-dados")}>Banco de Dados </li>
-                              
+
                             </ul>
                         </nav>
 
                         {cursoAberto === "cusor-python" && (
                             <div className={styles.div_Img_curso}>
                                 <h1>Curso de python </h1>
-                                  <div className={styles.galeria}>
+                                <div className={styles.galeria}>
                                     <img src={foto_cusor} alt="foto_cusor" />
                                     <img src={python_completo} alt="python_completo" />
                                     <img src={python_avancado} alt="python_avancado" />
@@ -79,14 +79,14 @@ function Sobre() {
                                 </div>
                             </div>
                         )}
-                       
+
                         {cursoAberto === "banco-dados" && (
                             <div className={styles.div_Img_curso}>
                                 <h1> SQLite3  </h1>
-                                  <div className={styles.galeria}>
+                                <div className={styles.galeria}>
                                     <img src={sqlite3_} alt="SQLite3" />
                                     <img src={ciencia_dados} alt="ciencia_dados" />
-                                   
+
                                 </div>
                             </div>
                         )}
@@ -105,13 +105,18 @@ function Sobre() {
                 </section>
                 <div className={styles.divDetales}>
                     <details>
-                        <summary>Imagem do codigo fonte do projeto</summary>
+                        <summary>Sobre este projeto</summary>
 
-                        <p>
-                            Sou Carlos Alberto e atualmente curso Desenvolvimento Web.
-                            Tenho conhecimentos em HTML, CSS, JavaScript, React, Python,
-                            SQLite3 e MySQL.
-                        </p>
+                        <p><strong>Tecnologias:</strong> HTML, CSS, JavaScript e React.</p>
+
+                        <p><strong>Objetivo:</strong> Desenvolver uma aplicação moderna e responsiva para demonstrar minhas habilidades em desenvolvimento web.</p>
+
+                        <p><strong>Principais funcionalidades:</strong></p>
+                        <ul>
+                            <li>Design responsivo</li>
+                            <li>Navegação entre páginas</li>
+                            <li>Interface intuitiva</li>
+                        </ul>
 
                     </details>
                 </div> {/* div_Detales */}
